@@ -48,7 +48,7 @@ This project was developed as part of my **CDAC PG-DAC final project**.
 
 ---
 ## 📂 Project Structure
-
+```text
 Online-Market-Place/
 ├── frontend/
 │ ├── src/
